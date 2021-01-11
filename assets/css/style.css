@@ -510,7 +510,7 @@ textarea::-ms-input-placeholder
 /*For Home Section*/
 
 .home{
-  background: url(../images/about-bg.jpg) no-repeat top;
+  background: url(../images/header-bg.png) no-repeat top;
   background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
@@ -898,7 +898,7 @@ textarea::-ms-input-placeholder
     color: #72b3cc;
 }
 .contact-form-area form .contact-btn:hover{
-	background#fff;
+	background: #fff;
 	
 }
 
